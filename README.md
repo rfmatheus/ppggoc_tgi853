@@ -7,7 +7,8 @@
 *Aluno:* Renato Fabiano Matheus 
 
 ## AVISO
-Repositório criado a partir da clonagem do repositório [rsouza/FGV_Intro_DS em github](https://github.com/rsouza/FGV_Intro_DS). \n
+Repositório criado a partir da clonagem do repositório [rsouza/FGV_Intro_DS em github](https://github.com/rsouza/FGV_Intro_DS).
+
 O conteúdo original deste documento está ao final do mesmo a partir do texto ("CONTEÚDO ORIGINAL"). 
 
 ## ATIVIDADES E AVALIAÇÃO DA DISCIPLINA TGI853 

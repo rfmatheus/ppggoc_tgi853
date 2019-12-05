@@ -1,3 +1,34 @@
+# 2019_2 - TÓPICOS ESP. EM GESTÃO E TECNOLOGIA II - A
+
+Disciplina: Representação Distribuída de Textos e Modelagem de Tópicos (2019/2) 
+Universidade: UFMG/PPGGOC (doutorado) 
+
+Prof. Renato Rocha 
+Aluno: Renato Fabiano Matheus 
+
+Repositório criado a partir da clonagem do repositório: https://github.com/rsouza/FGV_Intro_DS.
+O conteúdo original deste documento está ao final do mesmo a partir do texto ("CONTEÚDO ORIGINAL"). 
+
+CRITÉRIOS DE AVALIAÇÃO DA DISCIPLINA 
+
+1) Criação do repositório no GitHub (5 pt)
+
+RESPOSTA: https://github.com/rfmatheus/ppggoc_tgi853
+
+2) Preparação do notebook de processamento de textos e modelagem de tópicos com corpus próprio a ser escolhido (e tratado), tendo como exemplo este notebook (ML_UNSUP_TopicModeling_Clustering.ipynb) e este notebook (ML_UNSUP_Word2Vec_Example.ipynb) (35 pt)
+
+RESPOSTA: 
+
+3) Projeto final de word embeddings com o corpus escolhido segundo este notebook (https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) (50 pt)
+
+RESPOSTA: 
+
+4) Resenha de auto-avaliação e avaliação da disciplina (10 pt)
+
+RESPOSTA: 
+
+# CONTEÚDO ORIGINAL DO DOCUMENTO EM https://github.com/rsouza/FGV_Intro_DS
+
 # FGV_Intro_DS
 Introduction to Data Science @ FGV
 

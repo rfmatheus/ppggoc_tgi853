@@ -11,6 +11,11 @@ Repositório criado a partir da clonagem do repositório [rsouza/FGV_Intro_DS em
 
 O conteúdo original deste documento está ao final do mesmo a partir do texto ("CONTEÚDO ORIGINAL"). 
 
+## #########################################
+## ESTE DOCUMENTO: README.md
+## ARQUIVO PRINCIPAL DA DISCIPLINA, COM LINKS PARA ATIVIDADES/AVALIAÇÃO E DEMAIS DOCUMENTOS  
+## #########################################
+
 ## ATIVIDADES E AVALIAÇÃO DA DISCIPLINA TGI853 
 
 1) Criação do repositório no GitHub (5 pt)
@@ -24,7 +29,7 @@ RESPOSTA:
 
 + [ML_UNSUP_TopicModeling_Clustering.ipynb em rfmatheus](https://github.com/rfmatheus/ppggoc_tgi853/blob/master/notebooks/ML_UNSUP_TopicModeling_Clustering.ipynb)
 
-3) Projeto final de word embeddings com o corpus escolhido segundo este notebook (https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) (50 pt)
+3) Projeto final de word embeddings com o corpus escolhido segundo [ML_UNSUP_Word2Vec_Example.ipynb em rsouza](https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) (50 pt)
 
 RESPOSTA: 
 

@@ -1,23 +1,27 @@
 # 2019_2 - TÓPICOS ESP. EM GESTÃO E TECNOLOGIA II - A
 
-Disciplina: Representação Distribuída de Textos e Modelagem de Tópicos (2019/2) 
-Universidade: UFMG/PPGGOC (doutorado) 
+*Disciplina:* Representação Distribuída de Textos e Modelagem de Tópicos (2019/2) 
+*Universidade/Escola/Programa:* UFMG/ECI/PPGGOC (doutorado) 
 
-Prof. Renato Rocha 
-Aluno: Renato Fabiano Matheus 
+*Prof.:* Renato Rocha 
+*Aluno:* Renato Fabiano Matheus 
 
-Repositório criado a partir da clonagem do repositório: https://github.com/rsouza/FGV_Intro_DS.
+## AVISO
+Repositório criado a partir da clonagem do repositório [rsouza/FGV_Intro_DS em github](https://github.com/rsouza/FGV_Intro_DS). \n
 O conteúdo original deste documento está ao final do mesmo a partir do texto ("CONTEÚDO ORIGINAL"). 
 
-CRITÉRIOS DE AVALIAÇÃO DA DISCIPLINA 
+## ATIVIDADES E AVALIAÇÃO DA DISCIPLINA TGI853 
 
 1) Criação do repositório no GitHub (5 pt)
 
-RESPOSTA: https://github.com/rfmatheus/ppggoc_tgi853
+RESPOSTA: criado repositório [rfmatheus/ppggoc_tgi853](https://github.com/rfmatheus/ppggoc_tgi853) a partir do conteúdo clonado de rsouza/FGV_Intro_DS.
 
-2) Preparação do notebook de processamento de textos e modelagem de tópicos com corpus próprio a ser escolhido (e tratado), tendo como exemplo este notebook (ML_UNSUP_TopicModeling_Clustering.ipynb) e este notebook (ML_UNSUP_Word2Vec_Example.ipynb) (35 pt)
+2) Preparação do notebook de processamento de textos e modelagem de tópicos com corpus próprio a ser escolhido (e tratado), tendo como exemplo [ML_UNSUP_TopicModeling_Clustering.ipynb em rsouza](https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_TopicModeling_Clustering.ipynb) e [ML_UNSUP_Word2Vec_Example.ipynb em rsouza](https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) (35 pt)
 
 RESPOSTA: 
++ [ML_UNSUP_Word2Vec_Example.ipynb em rfmatheus](https://github.com/rfmatheus/ppggoc_tgi853/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) 
+
++ [ML_UNSUP_TopicModeling_Clustering.ipynb em rfmatheus](https://github.com/rfmatheus/ppggoc_tgi853/blob/master/notebooks/ML_UNSUP_TopicModeling_Clustering.ipynb)
 
 3) Projeto final de word embeddings com o corpus escolhido segundo este notebook (https://github.com/rsouza/FGV_Intro_DS/blob/master/notebooks/ML_UNSUP_Word2Vec_Example.ipynb) (50 pt)
 
